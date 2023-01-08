@@ -1,0 +1,44 @@
+* {
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+img {
+    height: 600px;
+}
+
+.ingredients {
+    color: grey;
+    background-color: aqua;
+}
+
+.ingredients h2 {
+    background-color: lightseagreen;
+}
+
+.ingredients li {
+    font-weight: lighter;
+    list-style-type: square;
+}
+
+
+.method {
+    color: grey;
+    background-color:lightpink;
+}
+
+.method h2 {
+    background-color: lightcoral;
+}
+
+.method ol {
+    font-weight: lighter;
+    list-style-type: lower-roman;
+}
+
+a {
+    font-weight: bold;
+}
